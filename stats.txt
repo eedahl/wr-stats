@@ -1,0 +1,661 @@
+This text file is generated automatically each time you quit the
+ELMA.EXE program. If you modify this file, you will loose the
+changes next time you run the game. This is only an output file, the
+best times are stored in the STATE.DAT binary file.
+Registered version 1.3
+
+Single player times:
+
+Level 1, Warm Up:
+    00:14:00    Zweq
+    00:14:03    Zweq
+    00:14:04    Zweq
+    00:14:05    Zweq
+    00:14:05    Zweq
+    00:14:06    Zweq
+    00:14:07    Zweq
+    00:14:07    Zweq
+    00:14:07    Zweq
+    00:14:07    Zweq
+
+Level 2, Flat Track:
+    00:14:85    Zweq
+    00:15:04    Zweq
+    00:15:04    Zweq
+    00:15:09    Zweq
+    00:15:11    Zweq
+    00:15:11    Zweq
+    00:15:12    Zweq
+    00:15:12    Zweq
+    00:15:14    Zweq
+    00:15:14    Zweq
+
+Level 3, Twin Peaks:
+    00:17:50    Zweq
+    00:17:52    Zweq
+    00:17:56    Zweq
+    00:17:57    Zweq
+    00:17:59    Zweq
+    00:17:60    Zweq
+    00:17:61    Zweq
+    00:17:61    Zweq
+    00:17:63    Zweq
+    00:17:64    Zweq
+
+Level 4, Over and Under:
+    00:28:95    Zweq
+    00:29:06    Zweq
+    00:29:10    Zweq
+    00:29:13    Zweq
+    00:29:16    Zweq
+    00:29:16    Zweq
+    00:29:16    Zweq
+    00:29:18    Zweq
+    00:29:20    Zweq
+    00:29:21    Zweq
+
+Level 5, Uphill Battle:
+    00:19:76    Zweq
+    00:19:80    Zweq
+    00:19:81    Zweq
+    00:19:81    Zweq
+    00:19:81    Zweq
+    00:19:81    Zweq
+    00:19:82    Zweq
+    00:19:82    Zweq
+    00:19:82    Zweq
+    00:19:82    Zweq
+
+Level 6, Long Haul:
+    00:30:30    Zweq
+    00:30:44    Zweq
+    00:30:51    Zweq
+    00:30:56    Zweq
+    00:30:90    Zweq
+    00:31:03    Zweq
+    00:31:25    Zweq
+    00:31:27    Zweq
+    00:31:33    Zweq
+    00:31:52    Zweq
+
+Level 7, Hi Flyer:
+    00:25:91    Zweq
+    00:26:36    Zweq
+    00:26:60    Zweq
+    00:26:67    Zweq
+    00:26:73    Zweq
+    00:26:85    Zweq
+    00:26:91    Zweq
+    00:26:93    Zweq
+    00:27:05    Zweq
+    00:27:38    Zweq
+
+Level 8, Tag:
+    00:20:75    Zweq
+    00:20:94    Zweq
+    00:20:96    Zweq
+    00:20:98    Zweq
+    00:20:98    Zweq
+    00:20:99    Zweq
+    00:21:00    Zweq
+    00:21:02    Zweq
+    00:21:03    Zweq
+    00:21:05    Zweq
+
+Level 9, Tunnel Terror:
+    00:51:88    Zweq
+    00:54:98    Zweq
+    00:55:10    Zweq
+    00:55:12    Zweq
+    00:55:18    Zweq
+    00:55:22    Zweq
+    00:55:25    Zweq
+    00:55:27    Zweq
+    00:55:37    Zweq
+    00:55:38    Zweq
+
+Level 10, The Steppes:
+    00:10:56    Zweq
+    00:10:58    Zweq
+    00:10:58    Zweq
+    00:10:58    Zweq
+    00:10:58    Zweq
+    00:10:58    Zweq
+    00:10:59    Zweq
+    00:10:60    Zweq
+    00:10:60    Zweq
+    00:10:60    Zweq
+
+Level 11, Gravity Ride:
+    00:22:17    Zweq
+    00:22:41    Zweq
+    00:22:47    Zweq
+    00:22:49    Zweq
+    00:22:58    Zweq
+    00:22:60    Zweq
+    00:22:63    Zweq
+    00:22:63    Zweq
+    00:22:63    Zweq
+    00:22:66    Zweq
+
+Level 12, Islands in the Sky:
+    00:21:32    Zweq
+    00:21:41    Zweq
+    00:21:43    Zweq
+    00:21:49    Zweq
+    00:21:56    Zweq
+    00:21:58    Zweq
+    00:21:69    Zweq
+    00:21:70    Zweq
+    00:21:75    Zweq
+    00:21:90    Zweq
+
+Level 13, Hill Legend:
+    00:14:22    Zweq
+    00:14:32    Zweq
+    00:14:35    Zweq
+    00:14:39    Zweq
+    00:14:41    Zweq
+    00:14:46    Zweq
+    00:14:58    Zweq
+    00:14:66    Zweq
+    00:14:78    Zweq
+    00:14:87    Zweq
+
+Level 14, Loop-de-Loop:
+    00:17:61    Zweq
+    00:17:65    Zweq
+    00:17:65    Zweq
+    00:17:65    Zweq
+    00:17:66    Zweq
+    00:17:67    Zweq
+    00:17:67    Zweq
+    00:17:67    Zweq
+    00:17:68    Zweq
+    00:17:68    Zweq
+
+Level 15, Serpents Tale:
+    00:48:82    Zweq
+    00:49:70    Zweq
+    00:51:73    Zweq
+    00:51:84    Zweq
+    00:51:87    Zweq
+    00:52:44    Zweq
+    00:52:51    Zweq
+    00:52:81    Zweq
+    00:53:25    Zweq
+    00:53:37    Zweq
+
+Level 16, New Wave:
+    01:22:41    Zweq
+    01:23:76    Zweq
+    01:23:79    Zweq
+    01:23:98    Zweq
+    01:24:13    Zweq
+    01:24:18    Zweq
+    01:24:52    Zweq
+    01:24:82    Zweq
+    01:24:97    Zweq
+    01:25:19    Zweq
+
+Level 17, Labyrinth:
+    00:53:99    Zweq
+    00:54:38    Zweq
+    00:54:64    Zweq
+    00:54:64    Zweq
+    00:54:79    Zweq
+    00:54:81    Zweq
+    00:54:81    Zweq
+    00:54:83    Zweq
+    00:54:87    Zweq
+    00:54:87    Zweq
+
+Level 18, Spiral:
+    00:44:53    Zweq
+    00:44:75    Zweq
+    00:44:75    Zweq
+    00:44:76    Zweq
+    00:44:77    Zweq
+    00:44:77    Zweq
+    00:44:77    Zweq
+    00:44:80    Zweq
+    00:44:82    Zweq
+    00:44:83    Zweq
+
+Level 19, Turnaround:
+    00:35:78    Zweq
+    00:36:00    Zweq
+    00:36:02    Zweq
+    00:36:06    Zweq
+    00:36:08    Zweq
+    00:36:09    Zweq
+    00:36:11    Zweq
+    00:36:12    Zweq
+    00:36:20    Zweq
+    00:36:27    Zweq
+
+Level 20, Upside Down:
+    00:58:14    Zweq
+    00:58:37    Zweq
+    00:58:63    Zweq
+    00:58:96    Zweq
+    00:59:14    Zweq
+    00:59:38    Zweq
+    00:59:42    Zweq
+    00:59:55    Zweq
+    00:59:58    Zweq
+    00:59:59    Zweq
+
+Level 21, Hangman:
+    00:14:49    Zweq
+    00:14:52    Zweq
+    00:14:52    Zweq
+    00:14:53    Zweq
+    00:14:54    Zweq
+    00:14:55    Zweq
+    00:14:55    Zweq
+    00:14:56    Zweq
+    00:14:57    Zweq
+    00:14:57    Zweq
+
+Level 22, Slalom:
+    00:38:94    Zweq
+    00:38:99    Zweq
+    00:39:10    Zweq
+    00:39:13    Zweq
+    00:39:18    Zweq
+    00:39:21    Zweq
+    00:39:26    Zweq
+    00:39:27    Zweq
+    00:39:28    Zweq
+    00:39:34    Zweq
+
+Level 23, Quick Round:
+    00:35:74    Zweq
+    00:36:44    Zweq
+    00:36:48    Zweq
+    00:36:69    Zweq
+    00:36:79    Zweq
+    00:37:12    Zweq
+    00:37:15    Zweq
+    00:37:21    Zweq
+    00:37:39    Zweq
+    00:38:18    Zweq
+
+Level 24, Ramp Frenzy:
+    00:41:36    Zweq
+    00:42:55    Zweq
+    00:42:85    Zweq
+    00:42:86    Zweq
+    00:42:92    Zweq
+    00:43:06    Zweq
+    00:43:20    Zweq
+    00:45:26    Zweq
+    00:46:79    Zweq
+    00:49:44    Zweq
+
+Level 25, Precarious:
+    00:24:26    Zweq
+    00:24:41    Zweq
+    00:24:45    Zweq
+    00:24:62    Zweq
+    00:24:63    Zweq
+    00:24:63    Zweq
+    00:24:66    Zweq
+    00:24:68    Zweq
+    00:24:70    Zweq
+    00:24:72    Zweq
+
+Level 26, Circuitous:
+    00:21:88    Zweq
+    00:22:00    Zweq
+    00:22:01    Zweq
+    00:22:02    Zweq
+    00:22:04    Zweq
+    00:22:06    Zweq
+    00:22:17    Zweq
+    00:22:18    Zweq
+    00:22:19    Zweq
+    00:22:19    Zweq
+
+Level 27, Shelf Life:
+    00:33:89    Zweq
+    00:33:95    Zweq
+    00:34:17    Zweq
+    00:34:23    Zweq
+    00:34:24    Zweq
+    00:34:27    Zweq
+    00:34:34    Zweq
+    00:34:35    Zweq
+    00:34:43    Zweq
+    00:34:50    Zweq
+
+Level 28, Bounce Back:
+    00:46:19    Zweq
+    00:46:22    Zweq
+    00:46:25    Zweq
+    00:46:43    Zweq
+    00:46:47    Zweq
+    00:46:49    Zweq
+    00:46:51    Zweq
+    00:46:60    Zweq
+    00:46:63    Zweq
+    00:46:64    Zweq
+
+Level 29, Headbanger:
+    00:43:23    Zweq
+    00:43:33    Zweq
+    00:43:52    Zweq
+    00:43:66    Zweq
+    00:43:75    Zweq
+    00:43:77    Zweq
+    00:43:83    Zweq
+    00:43:88    Zweq
+    00:44:15    Zweq
+    00:44:34    Zweq
+
+Level 30, Pipe:
+    00:33:02    Zweq
+    00:33:19    Zweq
+    00:33:27    Zweq
+    00:33:28    Zweq
+    00:33:34    Zweq
+    00:33:34    Zweq
+    00:33:38    Zweq
+    00:33:39    Zweq
+    00:33:40    Zweq
+    00:33:44    Zweq
+
+Level 31, Animal Farm:
+    01:11:65    Zweq
+    01:12:50    Zweq
+    01:13:10    Zweq
+    01:14:34    Zweq
+    01:15:05    Zweq
+    01:15:17    Zweq
+    01:15:26    Zweq
+    01:15:33    Zweq
+    01:15:60    Zweq
+    01:16:27    Zweq
+
+Level 32, Steep Corner:
+    00:42:60    Zweq
+    00:42:64    Zweq
+    00:42:66    Zweq
+    00:42:69    Zweq
+    00:42:69    Zweq
+    00:42:71    Zweq
+    00:42:71    Zweq
+    00:42:73    Zweq
+    00:42:74    Zweq
+    00:42:78    Zweq
+
+Level 33, Zig-Zag:
+    00:56:50    Zweq
+    00:58:02    Zweq
+    00:58:52    Zweq
+    00:58:64    Zweq
+    00:58:70    Zweq
+    00:58:89    Zweq
+    00:58:96    Zweq
+    00:59:25    Zweq
+    00:59:54    Zweq
+    00:59:59    Zweq
+
+Level 34, Bumpy Journey:
+    00:36:32    Zweq
+    00:36:38    Zweq
+    00:36:44    Zweq
+    00:36:44    Zweq
+    00:36:46    Zweq
+    00:36:47    Zweq
+    00:36:47    Zweq
+    00:36:48    Zweq
+    00:36:48    Zweq
+    00:36:50    Zweq
+
+Level 35, Labyrinth Pro:
+    02:13:53    Zweq
+    02:14:33    Zweq
+    02:14:35    Zweq
+    02:14:61    Zweq
+    02:14:79    Zweq
+    02:15:18    Zweq
+    02:15:31    Zweq
+    02:15:79    Zweq
+    02:16:10    Zweq
+    02:16:54    Zweq
+
+Level 36, Fruit in the Den:
+    00:57:08    Zweq
+    00:57:13    Zweq
+    00:57:15    Zweq
+    00:57:16    Zweq
+    00:57:16    Zweq
+    00:57:16    Zweq
+    00:57:17    Zweq
+    00:57:17    Zweq
+    00:57:17    Zweq
+    00:57:18    Zweq
+
+Level 37, Jaws:
+    00:53:42    Zweq
+    00:53:77    Zweq
+    00:53:88    Zweq
+    00:53:96    Zweq
+    00:53:99    Zweq
+    00:54:24    Zweq
+    00:54:53    Zweq
+    00:54:62    Zweq
+    00:54:91    Zweq
+    00:55:12    Zweq
+
+Level 38, Curvaceous:
+    00:29:52    Zweq
+    00:29:56    Zweq
+    00:29:73    Zweq
+    00:29:80    Zweq
+    00:29:82    Zweq
+    00:29:83    Zweq
+    00:29:93    Zweq
+    00:30:22    Zweq
+    00:30:29    Zweq
+    00:30:40    Zweq
+
+Level 39, Haircut:
+    00:39:88    Zweq
+    00:40:21    Zweq
+    00:40:36    Zweq
+    00:40:41    Zweq
+    00:40:43    Zweq
+    00:40:45    Zweq
+    00:40:53    Zweq
+    00:40:72    Zweq
+    00:40:80    Zweq
+    00:40:82    Zweq
+
+Level 40, Double Trouble:
+    01:19:59    Zweq
+    01:19:64    Zweq
+    01:19:67    Zweq
+    01:19:73    Zweq
+    01:19:74    Zweq
+    01:19:79    Zweq
+    01:19:79    Zweq
+    01:19:84    Zweq
+    01:19:86    Zweq
+    01:19:97    Zweq
+
+Level 41, Framework:
+    00:38:14    Zweq
+    00:38:24    Zweq
+    00:38:27    Zweq
+    00:38:28    Zweq
+    00:38:29    Zweq
+    00:38:29    Zweq
+    00:38:30    Zweq
+    00:38:30    Zweq
+    00:38:31    Zweq
+    00:38:32    Zweq
+
+Level 42, Enduro:
+    00:48:11    Zweq
+    00:48:50    Zweq
+    00:48:53    Zweq
+    00:48:63    Zweq
+    00:48:72    Zweq
+    00:48:75    Zweq
+    00:48:84    Zweq
+    00:48:85    Zweq
+    00:48:94    Zweq
+    00:48:96    Zweq
+
+Level 43, He He:
+    00:55:73    Zweq
+    00:55:73    Zweq
+    00:55:76    Zweq
+    00:55:79    Zweq
+    00:56:00    Zweq
+    00:56:01    Zweq
+    00:56:05    Zweq
+    00:56:11    Zweq
+    00:56:18    Zweq
+    00:56:21    Zweq
+
+Level 44, Freefall:
+    00:11:50    Zweq
+    00:11:57    Zweq
+    00:11:58    Zweq
+    00:11:58    Zweq
+    00:11:58    Zweq
+    00:11:58    Zweq
+    00:11:59    Zweq
+    00:11:60    Zweq
+    00:11:61    Zweq
+    00:11:61    Zweq
+
+Level 45, Sink:
+    00:32:53    Zweq
+    00:32:60    Zweq
+    00:32:61    Zweq
+    00:32:62    Zweq
+    00:32:63    Zweq
+    00:32:63    Zweq
+    00:32:63    Zweq
+    00:32:65    Zweq
+    00:32:65    Zweq
+    00:32:65    Zweq
+
+Level 46, Bowling:
+    00:51:70    Zweq
+    00:51:91    Zweq
+    00:51:96    Zweq
+    00:51:97    Zweq
+    00:51:99    Zweq
+    00:52:06    Zweq
+    00:52:06    Zweq
+    00:52:08    Zweq
+    00:52:10    Zweq
+    00:52:12    Zweq
+
+Level 47, Enigma:
+    00:19:34    Zweq
+    00:19:61    Zweq
+    00:19:63    Zweq
+    00:19:63    Zweq
+    00:19:67    Zweq
+    00:19:70    Zweq
+    00:19:76    Zweq
+    00:19:83    Zweq
+    00:19:83    Zweq
+    00:19:84    Zweq
+
+Level 48, Downhill:
+    00:41:76    Zweq
+    00:41:93    Zweq
+    00:41:95    Zweq
+    00:42:02    Zweq
+    00:42:05    Zweq
+    00:42:06    Zweq
+    00:42:06    Zweq
+    00:42:15    Zweq
+    00:42:17    Zweq
+    00:42:21    Zweq
+
+Level 49, What the Heck:
+    00:38:26    Zweq
+    00:38:45    Zweq
+    00:38:45    Zweq
+    00:38:49    Zweq
+    00:38:49    Zweq
+    00:38:51    Zweq
+    00:38:54    Zweq
+    00:38:59    Zweq
+    00:38:63    Zweq
+    00:38:67    Zweq
+
+Level 50, Expert System:
+    00:49:67    Zweq
+    00:50:02    Zweq
+    00:51:56    Zweq
+    00:53:42    Zweq
+    00:54:41    Zweq
+    00:54:58    Zweq
+    00:55:13    Zweq
+    00:55:25    Zweq
+    00:55:27    Zweq
+    00:55:54    Zweq
+
+Level 51, Tricks Abound:
+    00:41:49    Zweq
+    00:41:57    Zweq
+    00:41:62    Zweq
+    00:41:81    Zweq
+    00:41:88    Zweq
+    00:42:04    Zweq
+    00:42:11    Zweq
+    00:42:14    Zweq
+    00:42:18    Zweq
+    00:42:25    Zweq
+
+Level 52, Hang Tight:
+    00:24:15    Zweq
+    00:24:23    Zweq
+    00:24:28    Zweq
+    00:24:29    Zweq
+    00:24:30    Zweq
+    00:24:32    Zweq
+    00:24:32    Zweq
+    00:24:33    Zweq
+    00:24:34    Zweq
+    00:24:36    Zweq
+
+Level 53, Hooked:
+    00:17:01    Zweq
+    00:17:34    Zweq
+    00:17:34    Zweq
+    00:17:37    Zweq
+    00:17:41    Zweq
+    00:17:41    Zweq
+    00:17:43    Zweq
+    00:17:44    Zweq
+    00:17:49    Zweq
+    00:17:51    Zweq
+
+Level 54, Apple Harvest:
+    01:15:90    Zweq
+    01:16:01    Zweq
+    01:16:03    Zweq
+    01:16:48    Zweq
+    01:16:82    Zweq
+    01:17:63    Zweq
+    01:19:19    Zweq
+    01:19:21    Zweq
+    01:19:23    Zweq
+    01:19:43    Zweq
+
+
+The following are the single player total times for individual players.
+If a player doesn't have a time in the top ten for a level, this
+will add ten minutes to the total time.
+35:11:83    Zweq

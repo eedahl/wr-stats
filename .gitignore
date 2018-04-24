@@ -17,6 +17,12 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Folders
+old
+build
+.idea
+wrs_beat-*.txt
+
 # =========================
 # Operating System Files
 # =========================
