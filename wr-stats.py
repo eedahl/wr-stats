@@ -164,16 +164,16 @@ with open("wrs_beat.txt", 'w') as file:
             diff = "-"
             next_kuski = "-"
 
-        if wrs_beat != []:
-            file.write(row_format.format(
-                lev_number,
-                lev_name,
-                pr,
-                last_table_beat,
-                last_time_beat,
-                last_kuski_beat,
-                next_target,
-                diff,
-                next_kuski))
+        # if wrs_beat != []:
+        file.write(row_format.format(
+            lev_number,
+            lev_name,
+            pr,
+            last_table_beat,
+            last_time_beat,
+            last_kuski_beat,
+            next_target,
+            diff,
+            next_kuski))
 
 print("Script is finished running. Data saved in wrs_beat.txt.")
